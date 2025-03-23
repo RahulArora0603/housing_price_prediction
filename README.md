@@ -1,7 +1,7 @@
 <h2>Estate Valuation Prediction in Bengaluru 🏡📊</h2>  
 
 <h4>Project Overview</h4>  
-This project focuses on <strong>predicting real estate valuations</strong> in <em>Bengaluru, India</em> using <i>Machine Learning (ML)</i> techniques. By analyzing historical property data, the model estimates estate values based on key factors such as **location, size, and amenities**. The approach includes **data preprocessing, feature engineering, and advanced regression models** to enhance accuracy.  
+This project focuses on <strong>predicting real estate valuations</strong> in <em>Bengaluru, India</em> using <i>Machine Learning (ML)</i> techniques. By analyzing historical property data, the model estimates estate values based on key factors such as <em>location, size, and amenities</em>. The approach includes <em>data preprocessing, feature engineering, and advanced regression models</em> to enhance accuracy.  
 
 <h4>Dataset</h4>  
 The dataset comprises real estate attributes, including:  
@@ -17,7 +17,7 @@ The dataset comprises real estate attributes, including:
 - <em></em>Matplotlib, Seaborn</em> (Data Visualization)  
 - <em>Scikit-Learn</em> (ML Model Training)  
 - <em>Linear Regression</em> (Regression)  
-- <em>Flask</em> (Optional: API Deployment)  
+- <em>Flask</em>   
 
 ## **Project Workflow**  
 1. **Data Collection & Cleaning**  
